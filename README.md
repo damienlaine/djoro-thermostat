@@ -20,7 +20,7 @@ Les projets liés :
 * https://github.com/damienlaine/djoro-android
 
 
--- La documentation du commence çi dessous :
+-- La documentation commence çi dessous :
 
 
 # Guide de développement - Arduino
