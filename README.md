@@ -1,4 +1,29 @@
-# Guide de développement
+# Historique
+
+Je met dans le domaine public toutes les ressources techniques développées pour l'ancienne startup greentech ENERSY dont je suis co-fondateur.
+
+ENERSY s'est concentré sur la construction d'un système de contrôle à faible coût, basé sur la météorologie et l'apprentissage automatique, pour les appareils de chauffage et de refroidissement. Notre solution de thermostat connecté, Djoro, a été distribuée via des réseaux professionnels à partir de l'automne 2015 jusqu'en 2017.
+
+Ma volonté est maintenant d'open-sourcer l’ensemble des composants et des ressources que nous avons développés et utilisés. L’assemblage de ce projet vous permettra de construire un thermostat Djoro entièrement fonctionnel avec des cartes Arduino et CC3200, un peu de découpe laser, un peu de bricolage...
+
+Ce dépot en tant que point d'entrée pour le projet. Vous y trouverez aussi les ressources suivantes : 
+* Le code embarqué du module salon/thermostat Arduino
+* Le code embarqué de la carte CC3200 (module chaudière / wifi)
+* Les fichiers de design pour réaliser le Module salon
+
+Les projets liés :
+
+* https://github.com/damienlaine/djoro-server 
+* https://github.com/damienlaine/djoro-bcvtb
+* https://github.com/damienlaine/djoro-dashboard
+* https://github.com/damienlaine/djoro-ios
+* https://github.com/damienlaine/djoro-android
+
+
+-- La documentation du commence çi dessous :
+
+
+# Guide de développement - Arduino
 
 ## Setup de l'environnement de développement
 
