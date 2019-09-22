@@ -1,6 +1,6 @@
 # Historique
 
-Je met dans le domaine public toutes les ressources techniques développées pour l'ancienne startup greentech ENERSY dont je suis co-fondateur.
+Je met dans le domaine public toutes les ressources techniques développées pour l'ancienne startup greentech ENERSY dont j'ai été co-fondateur.
 
 ENERSY s'est concentré sur la construction d'un système de contrôle à faible coût, basé sur la météorologie et l'apprentissage automatique, pour les appareils de chauffage et de refroidissement. Notre solution de thermostat connecté, Djoro, a été distribuée via des réseaux professionnels à partir de l'automne 2015 jusqu'en 2017.
 
